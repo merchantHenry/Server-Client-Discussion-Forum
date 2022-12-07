@@ -13,8 +13,6 @@ import java.util.Arrays;
  * This class organizes information about teacher or student objects based
  * on a single thread of user input via GUIs.
  *
- * @author Jun Cao, Emma Maki, Henry Merchant, sec 13180-L19
- *
  * @version May 2, 2022
  *
  */
