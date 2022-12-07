@@ -12,8 +12,6 @@ import java.util.Objects;
  * 
  * This class receives and handles information from a given Client thread based on user input/interaction.
  *
- * @author Emma Maki, Henry Merchant, lab sec 13180-L19
- *
  * @version May 2, 2022
  */
 
