@@ -7,9 +7,7 @@ import java.util.*;
  * Reply.java
  *
  * This class intuitively organizes information from the client server regarding user input for comments and replies
- * with file reading/writing.
- *
- * @author Emma Maki, lab sec 13180-L19
+ * with file reading/writing
  *
  * @version April 30, 2022
  */
