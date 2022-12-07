@@ -7,8 +7,6 @@ import java.util.ArrayList;
  * This server class organizes information about teacher and student objects based
  * on outside user interaction.
  *
- * @author Emma Maki, lab sec 13180-L19
- *
  * @version April 18, 2022
  *
  */
