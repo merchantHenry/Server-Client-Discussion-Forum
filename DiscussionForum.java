@@ -5,8 +5,6 @@ import java.util.*;
  *
  * This class intuitively organizes information about a reply given a user and the number of upvotes.
  *
- * @author Emma Maki, lab sec 13180-L19
- *
  * @version April 25, 2022
  *
  */
