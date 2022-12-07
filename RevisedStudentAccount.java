@@ -6,8 +6,6 @@ import java.util.ArrayList;
  * Organizes information about student objects based on user input and server output, and allows
  * student-oriented actions to be performed by the student user.
  *
- * @author Emma Maki, lab sec 13180-L19
- *
  * @version April 25, 2022
  *
  */
